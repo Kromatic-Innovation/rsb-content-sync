@@ -96,6 +96,5 @@ Since the data is primarily qualitative and sample sizes are small, researchers 
 * [Beyer, H. & Holtzblatt, K. (1998). Contextual Design: Defining Customer-Centered Systems. San Francisco, CA: Morgan Kaufmann Publishers. Gaffney, G. (2004). Contextual enquiry – A primer.](http://www.sitepoint.com/article/contextual-enquiry-primer)
 * [Holtzblatt, K., Wendell, J. B., & Wood, S. (2005). Rapid contextual design: A how-to guide to key techniques for user-centered design. San Francisco, CA: Morgan Kaufmann.](https://www.elsevier.com/books/rapid-contextual-design/holtzblatt/978-0-12-354051-5)
 * [OpenInnovation Toolkit: Contextual Inquiry](https://toolkit.mozilla.org/method/contextual-inquiry/)
-* [Rampoldi-Hnilo, L. & English, J.(2004). Remote Contextual Inquiry: A Technique to Improve Enterprise Software. Boxes and Arrows.](https://boxesandarrows.com/remote-contextual-inquiry-a-technique-to-improve-enterprise-software/)
 * Whiteside, J. Bennett, J., & Holtzblatt, H. (1988). Usability engineering: Our experience and evaluation. In M. Helander (Ed.). Handbook of Human-Computer Interaction. New York, NY: Elsevier Science Publishing. 791-817.
 * Got a reference? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
