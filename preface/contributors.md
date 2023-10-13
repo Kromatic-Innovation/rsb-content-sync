@@ -43,6 +43,7 @@ The Real Startup Book Project is supported by 51 contributors across 16 countrie
 * Justin Coetsee (ZA), [Linkedin](https://www.linkedin.com/in/justincoetsee/)
 * Kamil Barbarski (DE), [Linkedin](https://de.linkedin.com/in/kamilbarbarski), [Twitter](https://twitter.com/kamilbbs)
 * Kassi Murray (US), [Linkedin](https://www.linkedin.com/in/kassimurray/)
+* Kevin Dewalt
 * Kenny Nguyen (US), [Kromatic](http://www.kromatic.com/), [Linkedin](https://www.linkedin.com/in/kennythanhnguyen)
 * Laci White (US), [Linkedin](https://www.linkedin.com/in/laciwhite/)
 * Lino Jimenez (US), [Linkedin](https://www.linkedin.com/pub/lino-jimenez-jr/3/9b2/498)
