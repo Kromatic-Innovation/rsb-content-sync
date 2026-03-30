@@ -1,3 +1,11 @@
+---
+title: Out of the Box
+description: Methods that do not fit neatly into the four quadrants but are useful across multiple research contexts.
+schema_type: WebPage
+updated: 2026-03-30
+og_image: .gitbook/assets/illustration - out of the box.png
+---
+
 # Out of the Box
 
 ![](<../.gitbook/assets/illustration - out of the box.png>)

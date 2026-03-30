@@ -1,3 +1,10 @@
+---
+title: Version History
+description: Version history and changelog for The Real Startup Book.
+schema_type: WebPage
+updated: 2026-03-30
+---
+
 # Version History
 
 * **Version 0.5 -** Minor updates to visual styling, general chapter cleanups, added direct download functionality with www.realstartupbook.com

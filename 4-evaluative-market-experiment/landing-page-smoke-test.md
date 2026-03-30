@@ -1,3 +1,22 @@
+---
+title: Value Proposition Test -  Landing Page
+description: A landing page used as a minimum viable product evaluates whether a particular type of customer wants a proposed product based on actual behavior (as...
+tags:
+  - Quantitative validation
+  - Benchmarking
+  - Positioning
+  - Value proposition
+  - Audience selection strategy
+category: evaluative-market-experiment
+helps_answer:
+  - "Is the customer interested enough in the value proposition to spend money?"
+  - "Is the product idea attractive to a particular segment or niche?"
+  - "Is the product positioned effectively against alternative solutions to the problem?"
+schema_type: HowTo
+updated: 2026-03-30
+og_image: .gitbook/assets/illustration - landing page smoke test.png
+---
+
 # Value Proposition Test -  Landing Page
 
 ![](<../.gitbook/assets/illustration - landing page smoke test.png>)

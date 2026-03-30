@@ -1,3 +1,26 @@
+---
+title: A/B Testing
+description: A/B testing (also known as split testing and bucket testing) is a randomized method of comparing two versions of an element (A and B) against each other to...
+tags:
+  - Quantitative
+  - Design features
+  - Conversion rate
+  - Bounce rate
+  - Value proposition
+  - Customer
+  - Channel
+  - Relationship
+category: out-of-the-box
+helps_answer:
+  - "Which features of my product or service will increase my conversion rate?"
+  - "Which is the most effective design of my product or service to increase sales?"
+  - "What is the most effective design of my website to generate traffic?"
+  - "Which website layout will lead to a higher sales-conversion rate?"
+schema_type: HowTo
+updated: 2026-03-30
+og_image: .gitbook/assets/illustration - ab testing - real startup book.png
+---
+
 # A/B Testing
 
 ![](<../.gitbook/assets/illustration - ab testing - real startup book.png>)

@@ -1,3 +1,24 @@
+---
+title: Value Proposition Test - Video
+description: The video smoke test consists of using a trailer video to test excitement and virality/buzz when describing the product to an early-adopter audience. Unlike...
+tags:
+  - B2C
+  - Value proposition
+  - Referral
+  - Product
+  - Evaluative
+  - Video
+category: evaluative-market-experiment
+helps_answer:
+  - "How well does the audience understand the messaging around the product?"
+  - "Does the audience find the value proposition compelling?"
+  - "Is the product buzzworthy, and does the target audience want to share it with their friends?"
+  - "What channels are the most responsive/viral?"
+schema_type: HowTo
+updated: 2026-03-30
+og_image: .gitbook/assets/illustration - video smoke test.png
+---
+
 # Value Proposition Test - Video
 
 ![](<../.gitbook/assets/illustration - video smoke test.png>)

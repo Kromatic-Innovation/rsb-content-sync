@@ -1,3 +1,19 @@
+---
+title: Competitor Usability Testing
+description: "Competitor usability testing is observing our target market using a competitor’s products or services to gain insights on the mindset of the user, common..."
+tags:
+  - Value proposition
+  - Key activities
+  - Generative product research
+category: generative-product-research
+helps_answer:
+  - "What is the minimum feature set to solve the problem?"
+  - "How important is design?"
+schema_type: HowTo
+updated: 2026-03-30
+og_image: .gitbook/assets/illustration - competitor usability testing - real startup book (1
+---
+
 # Competitor Usability Testing
 
 ![](<../.gitbook/assets/illustration - competitor usability testing - real startup book (1).png>)
@@ -68,7 +84,8 @@ Before building a solution, any ideas should be tested via alternative generativ
 
 ### References
 
-* [Daniël De Wit  : Don’t feel bad, user test your competitors](https://uxdesign.cc/dont-feel-bad-user-test-your-competitors-1efbaf662c1)
+* [Daniël De Wit
+  : Don’t feel bad, user test your competitors](https://uxdesign.cc/dont-feel-bad-user-test-your-competitors-1efbaf662c1)
 * [Nielsen Norman Group: Competitive Usability Evaluations - Learning from Your Competition](https://www.nngroup.com/articles/competitive-usability-evaluations/)
 * [trymyui: 5 secrets to running a comparative usability study](http://www.trymyui.com/blog/2015/04/02/5-secrets-for-comparative-usability-study/)
 * [StackExchange: Should usability testing of a competitor's website be a part of your usability testing routine?](http://ux.stackexchange.com/questions/37982/should-usability-testing-of-a-competitors-website-be-a-part-of-your-usability-t)

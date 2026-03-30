@@ -1,3 +1,22 @@
+---
+title: Scorecards
+description: "A scorecard is an evaluative decision-making or prioritizing shortcut, often done in a spreadsheet. It is a structured way to identify one top choice..."
+tags:
+  - Evaluative
+  - Benchmarking
+  - Decision-making
+  - Structured
+  - Quantitative
+  - Diagnostic
+category: out-of-the-box
+helps_answer:
+  - "What is the best of a number of options?"
+  - "What criteria will help us achieve the best possible outcome?"
+schema_type: HowTo
+updated: 2026-03-30
+og_image: .gitbook/assets/illustration - scorecards.png
+---
+
 # Scorecards
 
 ![](<../.gitbook/assets/illustration - scorecards.png>)

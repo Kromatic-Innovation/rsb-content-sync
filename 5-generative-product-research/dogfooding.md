@@ -1,3 +1,20 @@
+---
+title: Dogfooding
+description: "Dogfooding is simply using the product as if we were the customer and experiencing it firsthand. It is a common practice but an unstructured methodology, as..."
+tags:
+  - Value proposition
+  - Solution
+  - Generative product research
+category: generative-product-research
+helps_answer:
+  - "Will the solution provide the value proposition?"
+  - "Is the solution working right?"
+  - "What is the minimum viable feature set?"
+schema_type: HowTo
+updated: 2026-03-30
+og_image: .gitbook/assets/illustration - dog fooding.png
+---
+
 # Dogfooding
 
 ![](<../.gitbook/assets/illustration - dog fooding.png>)

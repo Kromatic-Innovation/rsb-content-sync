@@ -1,3 +1,18 @@
+---
+title: Ask an Expert
+description: "Founders ask experts for opinions, then choose whether or not to act on those opinions. Asking product and marketing experts is ok, but it's generative..."
+tags:
+  - Generative
+  - "Advice"
+category: generative-product-research
+helps_answer:
+  - "What is the received wisdom/standard approach/assumption(s) about a market or product?"
+  - "Am I missing an important part of the overall picture?"
+schema_type: HowTo
+updated: 2026-03-30
+og_image: .gitbook/assets/Illustration - Full Figure Coach - Ask An Expert.png
+---
+
 # Ask an Expert
 
 ![](<../.gitbook/assets/Illustration - Full Figure Coach - Ask An Expert.png>)

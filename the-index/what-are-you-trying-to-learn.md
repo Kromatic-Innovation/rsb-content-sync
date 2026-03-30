@@ -1,3 +1,11 @@
+---
+title: "What Are You Trying to Learn?"
+description: How to identify the right question to ask before choosing a research or experiment method.
+schema_type: WebPage
+updated: 2026-03-30
+og_image: .gitbook/assets/illustration - If I had an hour to solve a problem - real startup book.png
+---
+
 # What Are You Trying to Learn?
 
 ![](<../.gitbook/assets/illustration - If I had an hour to solve a problem - real startup book.png>)

@@ -1,3 +1,27 @@
+---
+title: Solution Interview
+description: The solution interview builds on our research around the problem and proposes a solution to see how potential customers react. Solution interviews result in...
+tags:
+  - Qualitative
+  - Demo
+  - Visualization
+  - Price
+  - Features
+category: generative-product-research
+helps_answer:
+  - "What is the minimum feature set needed to launch?"
+  - "What are \"must have\" features/benefits for the user?"
+  - "Will the solution \"work\"?"
+  - "Where are the solution’s strengths and weaknesses?"
+  - "Is the copy/presentation right?"
+  - "Why is the price right/not right relative to alternative ways of addressing the problem?"
+  - "How do I create the groundwork for repeat sales?"
+  - "How does the product fit into the prospects' existing technology mix (for B2B tech especially)"
+schema_type: HowTo
+updated: 2026-03-30
+og_image: .gitbook/assets/illustration - solution interview - real startup book.png
+---
+
 # Solution Interview
 
 ![](<../.gitbook/assets/illustration - solution interview - real startup book.png>)

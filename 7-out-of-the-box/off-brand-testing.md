@@ -1,3 +1,21 @@
+---
+title: Off-Brand Testing
+description: Off-brand testing is a technique that helps established companies run experiments while minimizing risk to their brand equity. Off-brand testing prevents...
+tags:
+  - Brand
+  - Evaluative
+  - Product
+  - Market
+category: out-of-the-box
+helps_answer:
+  - "Is there merit in the idea itself, or is there interest because of high brand value?"
+  - "Would our existing customers be interested in this type of product, even if they didn't know it was from our company?"
+  - "Would there be alternative market segments that might be interested in this product?"
+schema_type: WebPage
+updated: 2026-03-30
+og_image: .gitbook/assets/illustration - off brand testing - real startup book.png
+---
+
 # Off-Brand Testing
 
 ![](<../.gitbook/assets/illustration - off brand testing - real startup book.png>)

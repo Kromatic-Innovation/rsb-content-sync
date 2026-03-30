@@ -1,3 +1,21 @@
+---
+title: Product/Market Fit Survey
+description: "The Product/Market Fit Survey (PMF) specifically asks the customer, “How would you feel if you could no longer use this product?” with a multiple choice..."
+tags:
+  - B2C
+  - Quantitative
+  - Value proposition
+category: evaluative-product-experiment
+helps_answer:
+  - "What are the demographics of our customer segment?"
+  - "Will significantly increasing marketing spend (to a specific segment) result in a successful outcome?"
+  - "Can the market I’m in sustain my business?"
+  - "Can my product meet the needs of that market?"
+schema_type: HowTo
+updated: 2026-03-30
+og_image: .gitbook/assets/illustration - product market fit survey.png
+---
+
 # Product/Market Fit Survey
 
 ![](<../.gitbook/assets/illustration - product market fit survey.png>)
@@ -96,8 +114,11 @@ Look for differences in qualitative responses between very disappointed and some
 
 ### Tools
 
-* [Product/Market  &#x20;fit survey  &#x20;by Sean Ellis and GoPractice](https://pmfsurvey.com/)
-* [SurveyMonkey:&#x20;  Sean Ellis Product/Market Fit Survey Template](https://www.surveymonkey.com/r/CFXJH7M)
+* [Product/Market
+  &#x20;fit survey
+  &#x20;by Sean Ellis and GoPractice](https://pmfsurvey.com/)
+* [SurveyMonkey:&#x20;
+  Sean Ellis Product/Market Fit Survey Template](https://www.surveymonkey.com/r/CFXJH7M)
 * Got a tool to recommend? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
 
 ### References

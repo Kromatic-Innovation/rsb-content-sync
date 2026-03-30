@@ -1,3 +1,11 @@
+---
+title: Index of Methods
+description: A 2x2 matrix mapping research and experiment methods by generative vs. evaluative and market vs. product.
+schema_type: WebPage
+updated: 2026-03-30
+og_image: .gitbook/assets/illustration - lean startup 2x2.png
+---
+
 # Index of Methods
 
 ![](<../.gitbook/assets/illustration - lean startup 2x2.png>)

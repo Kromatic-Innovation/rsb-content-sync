@@ -1,3 +1,22 @@
+---
+title: Analog/Digital
+description: This technique helps decouple the risks around physical delivery of a product from a digital component of the product. We can sell a physical version of the...
+tags:
+  - Generative
+  - Product
+  - Value proposition
+  - Key resources
+  - Costs
+category: generative-product-research
+helps_answer:
+  - "What is the most usable way to gather or deliver an information-based service/product (assuming the customer won't need or doesn't want desktop or mobile)?"
+  - "How does this (analog) process work currently, so that we understand the details of what we're turning into a digital form?"
+  - "What are the biggest risks around the physical form of our product?"
+schema_type: HowTo
+updated: 2026-03-30
+og_image: .gitbook/assets/illustration - analog digital - real startup book.png
+---
+
 # Analog/Digital
 
 ![](<../.gitbook/assets/illustration - analog digital - real startup book.png>)

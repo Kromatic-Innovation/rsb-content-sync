@@ -1,3 +1,11 @@
+---
+title: Hypothesis Checklist
+description: "A checklist and exercises for writing strong, falsifiable hypotheses for lean startup experiments."
+schema_type: WebPage
+updated: 2026-03-30
+og_image: .gitbook/assets/Illustration - Detail Buyer - Hypothesis Checklist.png
+---
+
 # Hypothesis Checklist
 
 ![](<../.gitbook/assets/Illustration - Detail Buyer - Hypothesis Checklist.png>)

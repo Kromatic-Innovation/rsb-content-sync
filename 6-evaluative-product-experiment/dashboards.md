@@ -1,3 +1,25 @@
+---
+title: Dashboards
+description: A dashboard is a simple view of product metrics that displays information about the general health and viability of the product. While more detailed metrics...
+tags:
+  - Visual
+  - Metrics
+  - Tracking
+  - Operations
+  - KPI
+category: evaluative-product-experiment
+helps_answer:
+  - "What is going on in the business right now?"
+  - "How is the situation changing over time?"
+  - "Do we have any major blind spots?"
+  - "Does everyone in the company have access to the right metrics to track progress to overarching goals?"
+  - "Are we making the right decision right now?"
+  - "What are our current priorities?"
+schema_type: HowTo
+updated: 2026-03-30
+og_image: .gitbook/assets/illustration - dashboards.png
+---
+
 # Dashboards
 
 ![](<../.gitbook/assets/illustration - dashboards.png>)

@@ -1,3 +1,21 @@
+---
+title: Usability Testing
+description: Usability testing involves observing people trying to complete a series of tasks while using an interactive product. The product can be any level of...
+tags:
+  - Qualitative
+  - Value proposition
+  - Customers
+  - Description
+category: evaluative-product-experiment
+helps_answer:
+  - "How do people use the product or service?"
+  - "Do people understand how to use the product or service as intended?"
+  - "What do people experience at different touchpoints while using the product or service?"
+schema_type: HowTo
+updated: 2026-03-30
+og_image: .gitbook/assets/illustration - usability testing - real startup book.png
+---
+
 # Usability Testing
 
 ![](<../.gitbook/assets/illustration - usability testing - real startup book.png>)

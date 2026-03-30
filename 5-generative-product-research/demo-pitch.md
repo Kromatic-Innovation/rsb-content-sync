@@ -1,3 +1,28 @@
+---
+title: Demo Pitch
+description: A demo pitch is when we present or pitch our solution using some kind of product or service demonstration in the hope of convincing a potential customer to...
+tags:
+  - B2C
+  - B2B
+  - Key partners
+  - Channel partners
+  - Value proposition
+category: generative-product-research
+helps_answer:
+  - "Who is our early adopter or first customer?"
+  - "Who is the decision-maker?"
+  - "Is it valuable enough for them?"
+  - "Are we positioning it right?"
+  - "Are we highlighting the most compelling features?"
+  - "How much is it worth to them?"
+  - "What is the sales/procurement process?"
+  - "How will they use or implement our solution?"
+  - "Can we sell it?"
+schema_type: HowTo
+updated: 2026-03-30
+og_image: .gitbook/assets/illustration - demo pitch.png
+---
+
 # Demo Pitch
 
 ![](<../.gitbook/assets/illustration - demo pitch.png>)

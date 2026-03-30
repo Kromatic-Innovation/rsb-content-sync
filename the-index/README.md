@@ -1,3 +1,11 @@
+---
+title: The Index
+description: "The index section of The Real Startup Book, organizing methods by what you are trying to learn."
+schema_type: WebPage
+updated: 2026-03-30
+og_image: .gitbook/assets/illustration - an index is a great leveler - real startup book.png
+---
+
 # The Index
 
 ![](<../.gitbook/assets/illustration - an index is a great leveler - real startup book.png>)

@@ -1,3 +1,22 @@
+---
+title: Open-Ended Survey
+description: "An open-ended survey asks a fixed set of questions, usually via a mass-communication channel such as an email or website pop-up. Answers are not constrained..."
+tags:
+  - B2C
+  - B2B
+  - Qualitative
+  - Customer
+  - Generative market research
+category: generative-market-research
+helps_answer:
+  - "Who is our customer?"
+  - "What are their pains?"
+  - "What are the jobs to be done?"
+schema_type: HowTo
+updated: 2026-03-30
+og_image: .gitbook/assets/illustration - open ended survey - real startup book.png
+---
+
 # Open-Ended Survey
 
 ![](<../.gitbook/assets/illustration - open ended survey - real startup book.png>)

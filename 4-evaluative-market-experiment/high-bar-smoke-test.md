@@ -1,3 +1,23 @@
+---
+title: Value Proposition Test - High Bar
+description: A high bar test helps to gauge the customer’s willingness to pay without using any form of monetary payment. This particular form of smoke test is focused...
+tags:
+  - Purchase motivation
+  - Nonmonetary
+  - Behavioral
+  - "Sales"
+  - B2B
+  - Quantitative
+category: evaluative-market-experiment
+helps_answer:
+  - "How keen is the customer?"
+  - "How big of a problem is it for the customer?"
+  - "Who is my early adopter?"
+schema_type: HowTo
+updated: 2026-03-30
+og_image: .gitbook/assets/illustration - high bar test.png
+---
+
 # Value Proposition Test - High Bar
 
 ![](<../.gitbook/assets/illustration - high bar test.png>)

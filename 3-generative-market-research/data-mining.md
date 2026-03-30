@@ -1,3 +1,21 @@
+---
+title: Data Mining
+description: Data mining uses statistics from large amounts of data to learn about target markets and customer behaviors. This method can make use of data warehouses or...
+tags:
+  - B2C
+  - B2B
+  - Customer
+  - Quantitative
+category: generative-market-research
+helps_answer:
+  - "Who is our customer?"
+  - "What are their preferences?"
+  - "How do they rank planned feature sets?"
+schema_type: HowTo
+updated: 2026-03-30
+og_image: .gitbook/assets/illustration - data mining.png
+---
+
 # Data Mining
 
 ![](<../.gitbook/assets/illustration - data mining.png>)

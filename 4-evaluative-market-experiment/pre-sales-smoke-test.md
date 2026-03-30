@@ -1,3 +1,21 @@
+---
+title: Value Proposition Test - Pre-Sales
+description: "Pre-sales involves accepting payment in exchange for a promise to deliver the value proposition at a later date. Usually, the value proposition is the..."
+tags:
+  - Quantitative validation
+  - Benchmarking
+  - Positioning
+  - Value proposition
+  - Audience selection strategy
+  - Investor attraction
+category: evaluative-market-experiment
+helps_answer:
+  - "Is the customer actually willing to pay money for the value proposition?"
+schema_type: HowTo
+updated: 2026-03-30
+og_image: .gitbook/assets/illustration - pre-sales smoke test - real startup book.png
+---
+
 # Value Proposition Test - Pre-Sales
 
 ![](<../.gitbook/assets/illustration - pre-sales smoke test - real startup book.png>)

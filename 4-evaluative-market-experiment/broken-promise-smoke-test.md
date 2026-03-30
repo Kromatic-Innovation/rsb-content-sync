@@ -1,3 +1,24 @@
+---
+title: Value Proposition Test - Broken Promise
+description: People naturally want to share ideas or products they love with their friends. This smoke test helps test how much of a natural/inherent virality lies in...
+tags:
+  - Viral
+  - Landing page
+  - Sharing
+  - Audience
+  - Segmentation
+category: evaluative-market-experiment
+helps_answer:
+  - "Does the product answer an unmet need?"
+  - "Are users getting excited enough to share the product or product idea?"
+  - "Do we have an idea or product that people love?"
+  - "What relationships exist in our market?"
+  - "Who gets the most excited about the product?"
+schema_type: HowTo
+updated: 2026-03-30
+og_image: .gitbook/assets/illustration - broken promise test - real startup book.png
+---
+
 # Value Proposition Test - Broken Promise
 
 ![](<../.gitbook/assets/illustration - broken promise test - real startup book.png>)

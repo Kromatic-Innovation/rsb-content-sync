@@ -1,3 +1,20 @@
+---
+title: Comprehension Test
+description: A comprehension test will evaluate whether or not the customer understands the marketing message explaining the value proposition. This eliminates a...
+tags:
+  - Quantitative
+  - Qualitative
+  - Value proposition
+  - Smoke test
+category: evaluative-market-experiment
+helps_answer:
+  - "Does the customer understand the value proposition?"
+  - "How could we explain the value proposition better?"
+schema_type: HowTo
+updated: 2026-03-30
+og_image: .gitbook/assets/illustration - comprehension test.png
+---
+
 # Comprehension Test
 
 ![](<../.gitbook/assets/illustration - comprehension test.png>)
