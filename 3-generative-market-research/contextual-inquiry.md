@@ -1,3 +1,28 @@
+---
+title: Contextual Inquiry
+description: Contextual inquiry is a combination of semi-structured interviews and observations done in the actual location where the problem occurs or the solution will...
+tags:
+  - B2C
+  - B2B
+  - Qualitative
+  - Channels
+  - Value proposition
+  - Jobs to be done
+  - Key resources
+  - Key activities
+  - Key partners
+category: generative-market-research
+helps_answer:
+  - "What are the customer’s pain points?"
+  - "What are the jobs to be done?"
+  - "How often does this problem occur?"
+  - "Are there makeshift solutions the customer is currently using?"
+  - "Does the customer have any tacit knowledge about the problem space that would help create a solution?"
+schema_type: HowTo
+updated: 2026-03-30
+og_image: .gitbook/assets/illustration - contextual inquiry - real startup book.png
+---
+
 # Contextual Inquiry
 
 ![](<../.gitbook/assets/illustration - contextual inquiry - real startup book.png>)

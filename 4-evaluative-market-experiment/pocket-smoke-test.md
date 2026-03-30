@@ -1,3 +1,23 @@
+---
+title: Value Proposition Test - Pocket
+description: "This smoke test applies to physical goods or products with hardware components — at minimum a mobile phone. It entails interviewing a prospect or customer,..."
+tags:
+  - Solution
+  - Design
+  - Value proposition
+category: evaluative-market-experiment
+helps_answer:
+  - "Am I building the right product?"
+  - "Does the product have the right features or characteristics, relative to the value proposition?"
+  - "Does the user understand the product and its structure/architecture?"
+  - "How does the user expect to interact with the solution?"
+  - "Does the user understand how to achieve their goals using the product prototype?"
+  - "What constraints does the user have?"
+schema_type: HowTo
+updated: 2026-03-30
+og_image: .gitbook/assets/illustration - pocket smoke test - real startup book.png
+---
+
 # Value Proposition Test - Pocket
 
 ![](<../.gitbook/assets/illustration - pocket smoke test - real startup book.png>)

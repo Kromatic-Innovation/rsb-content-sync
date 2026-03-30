@@ -1,3 +1,22 @@
+---
+title: Secondary Market Research
+description: "Secondary market research gathers and interprets available information about the target market, and includes published reports, newspaper articles, or..."
+tags:
+  - B2C
+  - B2B (studies of industry sectors)
+  - Quantitative (but simple figures)
+  - Marketing channels
+  - Segments
+category: evaluative-market-experiment
+helps_answer:
+  - "How much would our customers pay? (What should be the price of our product?)"
+  - "What is the size of the market? (How many customers would be using our product? How many would be paying customers?)"
+  - "How much would it cost to sell? (What are the marketing channels and their exploitation costs?)"
+schema_type: HowTo
+updated: 2026-03-30
+og_image: .gitbook/assets/illustration - detail buyer half figure.png
+---
+
 # Secondary Market Research
 
 ![](<../.gitbook/assets/illustration - detail buyer half figure.png>)

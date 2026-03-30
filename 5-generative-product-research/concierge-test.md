@@ -1,3 +1,22 @@
+---
+title: Concierge Test
+description: "Concierge is a technique to test the solution of a customer problem by manually performing tasks as a service. It is typically not very cost-effective, but..."
+tags:
+  - B2C
+  - B2B
+  - Qualitative
+  - Value proposition
+category: generative-product-research
+helps_answer:
+  - "Does the solution solve a real customer problem?"
+  - "How can the problem be solved?"
+  - "What is the minimum feature set required to implement a solution?"
+  - "What are the greatest problems in effecting a solution for the customer?"
+schema_type: HowTo
+updated: 2026-03-30
+og_image: .gitbook/assets/illustration - conceirge test.png
+---
+
 # Concierge Test
 
 ![](<../.gitbook/assets/illustration - conceirge test.png>)

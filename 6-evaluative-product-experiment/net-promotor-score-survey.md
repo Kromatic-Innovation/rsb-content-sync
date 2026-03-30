@@ -1,3 +1,24 @@
+---
+title: Net Promoter Score Survey
+description: "The Net Promoter Score (NPS) identifies customer loyalty to the brand or product. The survey uses a score from 0 to 10 to answer the question: “How likely..."
+tags:
+  - B2C
+  - B2B
+  - Customer
+  - Relationship
+  - Value proposition
+  - Quantitative
+  - Qualitative
+category: evaluative-product-experiment
+helps_answer:
+  - "What is our customer loyalty rate?"
+  - "How do we segment our customers to promote the product/services?"
+  - "Who are the brand ambassadors among our customers?"
+schema_type: HowTo
+updated: 2026-03-30
+og_image: .gitbook/assets/illustration - net promotor score.png
+---
+
 # Net Promoter Score Survey
 
 ![](<../.gitbook/assets/illustration - net promotor score.png>)

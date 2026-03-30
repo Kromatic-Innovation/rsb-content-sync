@@ -1,3 +1,11 @@
+---
+title: Generative vs. Evaluative
+description: "How to distinguish generative research from evaluative experiments and write strong, falsifiable hypotheses."
+schema_type: WebPage
+updated: 2026-03-30
+og_image: .gitbook/assets/illustration-generative-vs-evaluative.png
+---
+
 # Generative vs. Evaluative
 
 ![](../.gitbook/assets/illustration-generative-vs-evaluative.png)

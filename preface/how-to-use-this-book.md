@@ -1,3 +1,11 @@
+---
+title: How to Use This Book
+description: Guide to navigating The Real Startup Book as a toolbox rather than a linear read.
+schema_type: WebPage
+updated: 2026-03-30
+og_image: .gitbook/assets/illustration - think of this book as a toolbox - real startup book (1
+---
+
 # How to Use This Book
 
 ![](<../.gitbook/assets/illustration - think of this book as a toolbox - real startup book (1).png>)

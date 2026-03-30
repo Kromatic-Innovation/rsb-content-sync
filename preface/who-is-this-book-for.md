@@ -1,3 +1,11 @@
+---
+title: "Who Is This Book for?"
+description: "Who should read The Real Startup Book: product managers, startup founders, and innovation leaders."
+schema_type: WebPage
+updated: 2026-03-30
+og_image: .gitbook/assets/illustration- who is this book for - real startup book.png
+---
+
 # Who Is This Book for?
 
 ![](<../.gitbook/assets/illustration- who is this book for - real startup book.png>)

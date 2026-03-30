@@ -1,3 +1,11 @@
+---
+title: Problem vs. Solution
+description: How to decide whether to research the problem (market) or the solution (product) when validating a business model.
+schema_type: WebPage
+updated: 2026-03-30
+og_image: .gitbook/assets/illustration-market-vs-product-color.png
+---
+
 # Problem vs. Solution
 
 ![](../.gitbook/assets/illustration-market-vs-product-color.png)

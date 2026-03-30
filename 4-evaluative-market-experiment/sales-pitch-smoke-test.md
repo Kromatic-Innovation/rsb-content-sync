@@ -1,3 +1,20 @@
+---
+title: Value Proposition Test - Sales Pitch
+description: Conducting a sales pitch as a smoke test is when an entrepreneur pitches a value proposition to a potential user or customer for the purpose of gathering...
+tags:
+  - B2B
+  - B2C
+  - Behavior
+category: evaluative-market-experiment
+helps_answer:
+  - "Will a customer pay money for the product?"
+  - "Does the customer see value in the product's value proposition?"
+  - "What objection(s) do customers have?"
+schema_type: HowTo
+updated: 2026-03-30
+og_image: .gitbook/assets/illustration - sales pitch smoke test - real startup book.png
+---
+
 # Value Proposition Test - Sales Pitch
 
 ![](<../.gitbook/assets/illustration - sales pitch smoke test - real startup book.png>)

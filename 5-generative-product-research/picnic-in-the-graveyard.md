@@ -1,3 +1,24 @@
+---
+title: Picnic in the Graveyard
+description: "This technique involves exploring \"near miss\" failures similar to our product idea to generate ideas about what to test and how to build a business model..."
+tags:
+  - Generative
+  - Product
+  - Feature
+  - Positioning
+  - Advice
+category: generative-product-research
+helps_answer:
+  - "What related products have been created in the past?"
+  - "What did customers like/not like about previously created products?"
+  - "What advice would founders of failed products similar to our idea (near misses) give us, if they were to go after the idea again?"
+  - "Which features have to be included in the product?"
+  - "How is this product different from similar products offered in the past?"
+schema_type: HowTo
+updated: 2026-03-30
+og_image: ".gitbook/assets/illustration - picnic in the graveyard b&w.png"
+---
+
 # Picnic in the Graveyard
 
 ![](<../.gitbook/assets/illustration - picnic in the graveyard b\&w.png>)

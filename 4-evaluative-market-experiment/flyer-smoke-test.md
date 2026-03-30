@@ -1,3 +1,23 @@
+---
+title: Value Proposition Test - Flyer
+description: "Flyers serve as placeholders for conversations that need to happen. Just like flyers are used to describe existing products, they can also be used to..."
+tags:
+  - B2B
+  - B2C
+  - Enterprise
+  - Sales
+  - Software
+  - Service
+category: evaluative-market-experiment
+helps_answer:
+  - "Will the client agree to an appointment?"
+  - "Does the target prospect respond positively to the flyer?"
+  - "Does the target customer pick up the flyer in a normal business context (conference, lobby, etc.)?"
+schema_type: HowTo
+updated: 2026-03-30
+og_image: .gitbook/assets/illustration - flyer smoke test.png
+---
+
 # Value Proposition Test - Flyer
 
 ![](<../.gitbook/assets/illustration - flyer smoke test.png>)

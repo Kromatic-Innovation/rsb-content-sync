@@ -1,3 +1,11 @@
+---
+title: Tags and Other Frameworks
+description: How tags and frameworks like the Business Model Canvas help navigate the methods in The Real Startup Book.
+schema_type: WebPage
+updated: 2026-03-30
+og_image: .gitbook/assets/Illustration - Ecosystem Global Ideas - Tags and Other Frameworks.png
+---
+
 # Tags and Other Frameworks
 
 ![](<../.gitbook/assets/Illustration - Ecosystem Global Ideas - Tags and Other Frameworks.png>)

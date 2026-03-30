@@ -1,3 +1,11 @@
+---
+title: Contributors
+description: List of editors and 51 contributors across 16 countries who helped create The Real Startup Book.
+schema_type: WebPage
+updated: 2026-03-30
+og_image: .gitbook/assets/illustration - contributors - real startup book.png
+---
+
 # Contributors
 
 ![](<../.gitbook/assets/illustration - contributors - real startup book.png>)

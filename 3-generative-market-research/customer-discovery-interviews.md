@@ -1,3 +1,22 @@
+---
+title: Customer Discovery Interviews
+description: "Customer discovery interviews are conducted with potential customers to gain insight into their perspective, pain points, purchasing habits, and so forth...."
+tags:
+  - B2C
+  - B2B
+  - Qualitative
+  - Customer
+  - Channel
+category: generative-market-research
+helps_answer:
+  - "Who is our customer?"
+  - "What are their pains?"
+  - "Where can we find our customer?"
+schema_type: HowTo
+updated: 2026-03-30
+og_image: .gitbook/assets/Illustration - Full Figure Hand Pocket - Customer Discovery Interviews.png
+---
+
 # Customer Discovery Interviews
 
 ![](<../.gitbook/assets/Illustration - Full Figure Hand Pocket - Customer Discovery Interviews.png>)

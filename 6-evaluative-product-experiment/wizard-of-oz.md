@@ -1,3 +1,19 @@
+---
+title: Wizard of Oz
+description: "The Wizard of Oz (WOZ) test involves one or more individuals simulating fully functioning product features without the use of technology. All inputs,..."
+tags:
+  - B2C
+  - B2B
+  - Quantitative
+  - Value proposition
+category: evaluative-product-experiment
+helps_answer:
+  - "Which features will provide the best solution?"
+schema_type: HowTo
+updated: 2026-03-30
+og_image: .gitbook/assets/illustration - wizard of oz - real startup book.png
+---
+
 # Wizard of Oz
 
 ![](<../.gitbook/assets/illustration - wizard of oz - real startup book.png>)

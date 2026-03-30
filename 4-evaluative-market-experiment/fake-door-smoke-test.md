@@ -1,3 +1,22 @@
+---
+title: Value Proposition Test - Fake Door
+description: "People are bad at predicting what they want, but they are great at reacting to new offers. Building just the entry to an offer makes it possible to predict..."
+tags:
+  - Testing
+  - Quantitative validation
+  - Positioning
+  - Value proposition testing
+  - Feature testing
+category: evaluative-market-experiment
+helps_answer:
+  - "Is the customer interested enough to click?"
+  - "Which target audience is attracted?"
+  - "Which words, icons, or images work well?"
+schema_type: HowTo
+updated: 2026-03-30
+og_image: .gitbook/assets/illustration - fake door test.png
+---
+
 # Value Proposition Test - Fake Door
 
 ![](<../.gitbook/assets/illustration - fake door test.png>)

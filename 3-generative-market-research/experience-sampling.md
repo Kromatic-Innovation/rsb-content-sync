@@ -1,3 +1,24 @@
+---
+title: Experience Sampling
+description: "This method is used to get information about a participant's daily behaviors, thoughts, and feelings in real-time, or as close to it as possible...."
+tags:
+  - B2C
+  - B2B
+  - Qualitative
+  - Customer segment
+  - Channels
+  - Value proposition
+category: generative-market-research
+helps_answer:
+  - "Who is our customer?"
+  - "What are their pains?"
+  - "What are the jobs to be done?"
+  - "How do we find them?"
+schema_type: HowTo
+updated: 2026-03-30
+og_image: .gitbook/assets/illustration - experience sampling - real startup book.png
+---
+
 # Experience Sampling
 
 ![](<../.gitbook/assets/illustration - experience sampling - real startup book.png>)

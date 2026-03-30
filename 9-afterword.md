@@ -1,3 +1,10 @@
+---
+title: Afterword
+description: Afterword with next steps for readers and an invitation to contribute to The Real Startup Book.
+schema_type: WebPage
+updated: 2026-03-30
+---
+
 # Afterword
 
 ![](<.gitbook/assets/illustration - afterword (1).png>)

@@ -1,3 +1,11 @@
+---
+title: Foreword
+description: Foreword by Tristan Kromer on why entrepreneurs need a diverse toolbox of research and experiment methods.
+schema_type: WebPage
+updated: 2026-03-30
+og_image: .gitbook/assets/illustration- when all you have is a hammer - real startup book.png
+---
+
 # Foreword
 
 ![](<.gitbook/assets/illustration- when all you have is a hammer - real startup book.png>)

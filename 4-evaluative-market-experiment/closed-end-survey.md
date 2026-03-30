@@ -1,3 +1,22 @@
+---
+title: Closed-Ended Survey
+description: "Closed-ended surveys help you converge on what's relevant in great detail, particularly to customers or prospects. They are designed to create structured..."
+tags:
+  - Quantitative
+  - Analytical
+  - Convergent
+category: evaluative-market-experiment
+helps_answer:
+  - "What is the breakdown of client concerns/problems/preferences in terms of percent of all clients in a segment?"
+  - "How X varies with Y (e.g., how many part-time students find advanced calculus challenging?)."
+  - "What patterns emerge over time (if repeated over time)?"
+  - "Ranking questions like: What is the order of priority? Who/what is the best option?"
+  - "What provides the most satisfaction?"
+schema_type: HowTo
+updated: 2026-03-30
+og_image: .gitbook/assets/illustration - close-ended survey - real startup book.png
+---
+
 # Closed-Ended Survey
 
 ![](<../.gitbook/assets/illustration - close-ended survey - real startup book.png>)

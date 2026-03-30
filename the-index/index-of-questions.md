@@ -1,3 +1,11 @@
+---
+title: Index of Questions
+description: A 2x2 matrix mapping common business questions by generative vs. evaluative and market vs. product.
+schema_type: WebPage
+updated: 2026-03-30
+og_image: .gitbook/assets/illustration - lean startup 2x2.png
+---
+
 # Index of Questions
 
 ![](<../.gitbook/assets/illustration - lean startup 2x2.png>)

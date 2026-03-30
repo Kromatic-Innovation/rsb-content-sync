@@ -1,3 +1,22 @@
+---
+title: Value Proposition Test - Event
+description: "We can use an event to smoke test a problem, and to some extent, content that is attractive for our target audience. By organizing an event, we are..."
+tags:
+  - Qualitative
+  - Channel
+  - Problem test
+  - Solution
+category: evaluative-market-experiment
+helps_answer:
+  - "Who is actually interested in a problem?"
+  - "How do I reach my target profile?"
+  - "Are they willing to pay for a solution?"
+  - "What exactly do they like and why?"
+schema_type: HowTo
+updated: 2026-03-30
+og_image: .gitbook/assets/Illustration - Group Talking - Event Smoke Test.png
+---
+
 # Value Proposition Test - Event
 
 ![](<../.gitbook/assets/Illustration - Group Talking - Event Smoke Test.png>)

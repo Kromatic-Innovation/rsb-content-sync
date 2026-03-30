@@ -1,3 +1,23 @@
+---
+title: Focus Groups
+description: "A focus group is a small group discussion designed to rapidly gain customer feedback on a given topic. It is like customer development, but performed in a..."
+tags:
+  - B2C
+  - B2B
+  - Qualitative
+  - Customer
+category: generative-market-research
+helps_answer:
+  - "How do customers influence one another in a group setting?"
+  - "What do customers think?"
+  - "What are the customers' problems?"
+  - "What do they think about the product/solution?"
+  - "What do customers think of alternatives?"
+schema_type: HowTo
+updated: 2026-03-30
+og_image: .gitbook/assets/illustration - focus group b.png
+---
+
 # Focus Groups
 
 ![](<../.gitbook/assets/illustration - focus group b.png>)

@@ -1,3 +1,24 @@
+---
+title: Competitor Analysis
+description: Competitive analysis is very much a secondary research method that we can perform online relatively quickly and comprehensively. It can be used for...
+tags:
+  - B2C
+  - B2B
+  - Qualitative
+  - Channels
+  - Value proposition
+category: generative-product-research
+helps_answer:
+  - "Who is our competitor?"
+  - "How are they solving their customer problems?"
+  - "What form should the product take?"
+  - "How can we differentiate our offering and positioning?"
+  - "What type of revenues are being generated?"
+schema_type: HowTo
+updated: 2026-03-30
+og_image: .gitbook/assets/illustration - competitor analysis - real startup book.png
+---
+
 # Competitor Analysis
 
 ## Competitor Analysis
